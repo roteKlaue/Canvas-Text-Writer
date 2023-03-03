@@ -1,7 +1,7 @@
 {
   "name": "canvas-text-writer",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple Text Writer which writes the given text letter by letter",
   "main": "Writer.js",
   "directories": {
     "test": "test"
@@ -9,7 +9,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "Frontend",
+    "canvas",
+    "text-writer"
+  ],
+  "author": "roteKlaue",
   "license": "ISC"
 }
