@@ -1,6 +1,6 @@
 {
   "name": "canvas-text-writer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple Text Writer which writes the given text letter by letter",
   "main": "Writer.js",
   "directories": {
