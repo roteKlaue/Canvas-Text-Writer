@@ -9,5 +9,5 @@ writeText(canvas, font+size, color, { x, y }, timeInMilliseconds);
 ```
 
 <p align="center">
-    <img src="./assets/example.gif">
+    <img src="https://github.com/roteKlaue/Canvas-Text-Writer/blob/master/assets/example.gif">
 </p>

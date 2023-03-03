@@ -1,6 +1,6 @@
 {
   "name": "canvas-text-writer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple Text Writer which writes the given text letter by letter",
   "main": "Writer.js",
   "directories": {
@@ -15,5 +15,14 @@
     "text-writer"
   ],
   "author": "roteKlaue",
-  "license": "ISC"
+  "license": "ISC",
+  "types": "./Writer.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roteKlaue/Canvas-Text-Writer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/roteKlaue/Canvas-Text-Writer/issues"
+  },
+  "homepage": "https://github.com/roteKlaue/Canvas-Text-Writer#readme"
 }
