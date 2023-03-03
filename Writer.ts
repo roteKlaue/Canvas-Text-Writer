@@ -24,3 +24,5 @@ const writeText = (canvas: HTMLCanvasElement, text: string, font: string, color:
 
     requestAnimationFrame(loop.bind(null, 0, 0));
 }
+
+export { writeText };
