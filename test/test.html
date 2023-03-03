@@ -22,7 +22,8 @@
 </head>
 <body>
     <script src="../Writer.js"></script>
-    <script>
+    <script type="module">
+        import { writeText } from "../Writer.js";
         const canvas = document.createElement("canvas");
         canvas.height = window.innerHeight;
         canvas.width = window.innerWidth;
